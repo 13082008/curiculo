@@ -1,0 +1,2 @@
+# curiculo
+modelo de curiculo
